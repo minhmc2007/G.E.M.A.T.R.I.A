@@ -1,4 +1,4 @@
-# G.E.M.A.T.R.I.A.
+# G.E.M.A.T.R.I.A
 ### Graphical Environment & Modding Architecture for Total Resource Intervention & Analysis
 
 ![Preview](./preview.png)
